@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-testrepository just for test cases
+This is just a test repository so I can learn about github.
